@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\RegisterationSystemApp\RegisterationSystem\bin\Debug\RegisterationSystem.exe.config
+C:\Users\user\source\repos\RegisterationSystemApp\RegisterationSystem\bin\Debug\RegisterationSystem.exe
+C:\Users\user\source\repos\RegisterationSystemApp\RegisterationSystem\bin\Debug\RegisterationSystem.pdb
+C:\Users\user\source\repos\RegisterationSystemApp\RegisterationSystem\obj\Debug\RegisterationSystem.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\RegisterationSystemApp\RegisterationSystem\obj\Debug\RegisterationSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\RegisterationSystemApp\RegisterationSystem\obj\Debug\RegisterationSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RegisterationSystemApp\RegisterationSystem\obj\Debug\RegisterationSystem.exe
+C:\Users\user\source\repos\RegisterationSystemApp\RegisterationSystem\obj\Debug\RegisterationSystem.pdb
